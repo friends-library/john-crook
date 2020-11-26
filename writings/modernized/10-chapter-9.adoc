@@ -1,7 +1,9 @@
 == Chapter 9
 
+[.blurb]
 === An exhortation to stand fast in the truth, according to our ancient testimony, which you have heard from the beginning.
 
+[.salutation]
 Dear friends, brethren and sisters,
 
 I cannot forget those ancient days, in which we were refreshed together,
@@ -119,11 +121,17 @@ that you may be preserved unto the end.
 Amen.
 Your friend in the truth.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, the 6th of the twelfth month, 1698.
 
+[.signed-section-context-close]
 Anno AEtalis 81.
+
+[.postscript]
+====
 
 The Postscript.
 
@@ -144,7 +152,10 @@ And what God has joined together, none ought to put asunder.
 This I take to be, in short, our ancient testimony, as to the God and man Christ Jesus;
 of which I hope we shall never be ashamed.
 
+[.signed-section-signature]
 John Crook.
+
+====
 
 === The Design of Christianity.
 
@@ -375,14 +386,19 @@ with every secret thing, whether it he good,
 or whether it be evil:`" with these words the preacher ends his Ecclesiastes,
 after he had seen all to be "`vanity, and vexation of spirit, under the sun.`"
 
+[.signed-section-signature]
 John Crook:
 
+[.signed-section-context-close]
 Near entering into the 82d year of my age.
 
+[.signed-section-context-close]
 Hertford, the 17th of the 12th month, 1698-9.
 
+[.blurb]
 === An Epistle to Friends belonging to Hertford meeting.
 
+[.salutation]
 Dear Friends,
 
 Being the Lord`'s prisoner, (but I have a merciful keeper,
@@ -434,12 +450,15 @@ but as a messenger of glad tidings to your inward man, though displeasing to the
 
 I rest your friend and brother in the faith and patience of Jesus,
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, the 25th of the 12th month, 1698-9.
 
 === Advice to my children and grandchildren.
 
+[.salutation]
 Dear Children,
 
 I must leave you in a wicked age,
@@ -539,8 +558,11 @@ knowing how the vain mind of man little regards such advice as this I leave behi
 but by this advice I show my true love to you all, desiring God`'s blessing upon it;
 to whom I commit you all, my dear children, and end my days.
 
+[.signed-section-closing]
 Your loving father and grandfather,
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, the 1st of the 1st month, 1698-9.
