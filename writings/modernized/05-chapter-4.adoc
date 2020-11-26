@@ -1068,6 +1068,7 @@ where we remain prisoners.]
 [.asterism]
 '''
 
+[.blurb]
 === Some animadversions upon the whole matter, showing the severity and unmercifulness, if not cruel injustice, of the late proceedings against us: Leaving it to be judged by God`'s witness in every conscience.
 
 Considering our first taking without warrant by force of arms,
@@ -1206,6 +1207,7 @@ and abhor him that speaks uprightly;`" and at verse 27, it is said,
 [.signed-section-signature]
 John Crook.
 
+[.blurb]
 === Now follows some collections, that passed at the same Court of Sessions, by Isaac Grey, called Doctor in Medicine, at the Old Bailey, receiving the same sentence of premunire with the other two.
 
 [.offset]
