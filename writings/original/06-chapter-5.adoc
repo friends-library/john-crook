@@ -1,5 +1,6 @@
 == Chapter 5
 
+[.blurb]
 === Glad tidings proclaimed to the upright in heart, who walk in the light of life: and judgment pronounced against Babylon and her merchants, whose rewards must be according to her works.
 
 Dear flock of my heavenly Father, whom he hath visited and chosen out of the world,
@@ -118,12 +119,16 @@ which is the desire of my travailing soul for you all; who am
 
 Your brother and companion, in the faith and patience of Jesus,
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 From visiting my Father`'s children, the 17th of the Twelfth month, 1662.
 
+[.blurb]
 === A true and faithful testimony concerning John Samm, the servant of the Lord, who finished his course, by laying down his life in Northampton jail, for the Truth of Jesus, the 16th of the first month, 1664.
 
+[.salutation]
 Dearly beloved of the lord,
 
 Although many of you are not ignorant of the departure of John Samm out of the body,
@@ -202,6 +207,7 @@ and thrusting through the tall cedars and lofty oaks, and wild beasts of the wil
 which did echo to the true seed, and often made sweet melody in their assemblies,
 when but few words were spoken by him.
 
+[.blurb]
 === An exhortation unto all the righteous; especially those that were partakers of John Samm`'s ministry.
 
 Did Joseph seek a place where to weep over Benjamin his brother, though yet alive?
@@ -307,6 +313,7 @@ and hath not one drop of that mercy with which thou art filled,
 to the praise of our God forever.
 Amen.
 
+[.blurb]
 === Some reasons why the people called Quakers do absent from the public way of worship, and cannot conform thereunto, though they are exposed to great sufferings because thereof.
 
 We are a people that have desired,
@@ -315,21 +322,29 @@ and the way in which he is worshipped; in which way we desire to walk:
 and after much seeking, and serious consideration, we do find,
 and are persuaded in our hearts and consciences.
 
-First, That God is a Spirit, and that his worship is spiritual;
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That God is a Spirit, and that his worship is spiritual;
 according as Christ hath said, John 4:24. And that none are true worshippers,
 but such as worship in the Spirit, and in Truth.
 
-Secondly, That men must first feel and receive a measure of the Spirit of the Lord,
+[.numbered]
+_Secondly,_ That men must first feel and receive a measure of the Spirit of the Lord,
 before they can come to know the true way of worship,
 which is only learned in the Spirit, ver. 22, 23.
 
-Thirdly, That no man upon the earth, can or ought to prescribe how, or after what manner,
+[.numbered]
+_Thirdly,_ That no man upon the earth, can or ought to prescribe how, or after what manner,
 God Almighty is to be worshipped, so as to impose any practices upon men;
 but is to leave that to him, to direct them by his good Spirit,
 in things pertaining to his worship; and he is to persuade them thereunto:
 and that they ought not to be compelled or forced to the true worship;
 much less to that which is so justly suspected by many people,
 not to be the true way of worship.
+
+====
 
 And it doth appear to us, that the public way of worship,
 or the worship of the church of England, is very different from this spiritual worship:
@@ -579,17 +594,16 @@ and light shall shine more and more in the hearts of men;
 in which all that do walk shall know the salvation of God, and partake of his mercies,
 and great lovingkindness, and praise and magnify his glorious name forevermore.
 
+[.signed-section-context-close]
 Reading Jail, the 22d day of the Fifth month, 1665.
 
-* * *
+[.asterism]
+'''
 
-+++[+++The following address appears to have been written
-while the plague was prevailing in London,
-and designed to bring those who were in affliction
-to a proper consideration of their own states,
-and of the administration of the Lord`'s judgments in the earth,
-that they might profit by them.-- Ed.]
+[.blurb]
+=== +++[+++The following address appears to have been written while the plague was prevailing in London, and designed to bring those who were in affliction to a proper consideration of their own states, and of the administration of the Lord`'s judgments in the earth, that they might profit by them.-- Ed.]
 
+[.blurb]
 === Compassion to all the Sorrowful, Afflicted, Visited, Tempted, Suffering Seed; whether inwardly or outwardly, in the city of London, or elsewhere in England.
 
 Thus saith the Lord, say to them that are of a fearful heart, be strong, fear not;
@@ -909,6 +923,8 @@ This is from a sufferer with the righteous seed,
 and one that prays and waits for its deliverance out of all its troubles,
 in all where it yet groans for redemption, a salutation of unfeigned love.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 The fourth of the Seventh month 1665.

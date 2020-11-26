@@ -1,30 +1,26 @@
 == Chapter 6.
 
-Truth`'s Progress: or,
-A Short Relation of its first Appearance and Publication after the Apostacy.
+=== Truth`'s Progress: A Short Relation of its frist Appearance and Publication after the Apostacy.
 
-Containing--1. An Epistolary Salutation.
-2+++.+++ All Expostulation.
-3+++.+++ The Description of the Truth, as it was declared in the beginning, with its Progress,
-Operation, and Opposition.
-4+++.+++ The Rise and Ground of the true Ministry.
-5+++.+++ To all who have at any time, or in any place,
-wrested or misapplied my words or writings, as some have done,
-to make them suit with their evil intentions; that they may be convinced of their evil,
-and do so no more.
-6, That all jealousies, and all false judgments grounded thereupon,
-may be removed out of the minds of all concerned therein;
-and they cautioned for the future of all such dealings and practices.
-7+++.+++ The Author`'s Appeal concerning himself.
-8+++.+++ An Exhortation to all, to try themselves by the Truth,
-as it was received and published in the beginning.
-9+++.+++ That all who are fallen may be restored; and the way of their recovery declared.
-10+++.+++ A Word of Reproof to all people and professors,
-who encourage themselves and one another to hope for the downfall of the Quakers,
-so called, and the Truth which they profess,
-because of anything that befalls them in this world.
-11+++.+++ The afflicted soul`'s complaint and cure.
+__Containing--__
 
+[.chapter-synopsis]
+* 1+++.+++ An Epistolary Salutation.
+* 2+++.+++ All Expostulation.
+* 3+++.+++ The Description of the Truth, as it was declared in the beginning, with its Progress, Operation, and Opposition.
+* 4+++.+++ The Rise and Ground of the true Ministry.
+* 5+++.+++ To all who have at any time, or in any place, wrested or misapplied my words or writings, as some have done, to make them suit with their evil intentions; that they may be convinced of their evil, and do so no more.
+* 6+++.+++ That all jealousies, and all false judgments grounded thereupon, may be removed out of the minds of all concerned therein; and they cautioned for the future of all such dealings and practices.
+* 7+++.+++ The Author`'s Appeal concerning himself.
+* 8+++.+++ An Exhortation to all, to try themselves by the Truth, as it was received and published in the beginning.
+* 9+++.+++ That all who are fallen may be restored; and the way of their recovery declared.
+* 10+++.+++ A Word of Reproof to all people and professors, who encourage themselves and one another to hope for the downfall of the Quakers, so called, and the Truth which they profess, because of anything that befalls them in this world.
+* 11+++.+++ The afflicted soul`'s complaint and cure.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Dear Friends,--From the deep sense of the great care, love, mercy,
 and long-suffering of God, which he has exercised towards us all,
 do I at this time write unto you; desiring the Lord so to direct my heart,
@@ -54,6 +50,7 @@ as not only to behold it afar off, but many of you so near the borders thereof,
 as to taste the fruit of it; and yet go back again into the wilderness,
 among the briars and thorns: what pity is this.
 
+[.numbered]
 2+++.+++ Shall ever length of time, multitude of business, increase of worldly riches,
 offences, prejudices, snares, or temptations, or whatever can be named,
 be able to blot out the sweet remembrance of the tender mercies of God unto your souls,
@@ -127,6 +124,7 @@ Paul brings them to the beginning, or Christ`'s practice of it at first; saying.
 In the same night he was betrayed, he took bread, etc.
 As if to bring abuses and mistakes to the first, were to see their last.
 
+[.numbered]
 3+++.+++ In like manner let me mind you a little of the
 appearance and publication of truth again,
 as in the beginning, and of its progress unto this day: not at large, in all particulars,
@@ -203,6 +201,7 @@ that those who were called from the receipt of custom
 returned there any more:`" observing there,
 that some callings, once laid down, ought never to be taken up again.
 
+[.numbered]
 4+++.+++ What unwearied pains the truth made many take, to run to and fro,
 to inform and forewarn their relations and acquaintance,
 lest they should neglect the day of their visitation; and, they, knowing the truth,
@@ -535,6 +534,7 @@ But wherein I have miscarried in being too mild, and offended any,
 I hope they will forgive me that wrong, as they expect to be forgiven,
 who have at any time miscarried on the other hand.
 
+[.numbered]
 5+++.+++ But if any, on the one hand, have taken encouragement,
 either from my speaking or writing, to strengthen themselves in evil practices,
 contrary to the truth, as it was in the beginning received and held forth,
@@ -556,6 +556,7 @@ because they have sinned against him,
 unto a thorough change and reformation in them for the time to come:
 and I can and do freely forgive the wrong done unto my particular.
 
+[.numbered]
 6+++.+++ On the other hand, if any have conceived jealousies in their minds,
 and watched for occasion against the innocent,
 and grounded a false judgment upon those misapprehensions,
@@ -571,6 +572,7 @@ But whether anything of like nature or resemblance has ever been in my heart,
 much less endeavoured by me, concerning the least labourer in my Father`'s vineyard,
 is known to the Lord.
 
+[.numbered]
 7+++.+++ And I appeal to all you that have known me in bonds and at liberty,
 among whom I have laboured, and been conversant these twelve years and upwards,
 who have known my doctrine, and manner of life, whether I have sought myself,
@@ -607,6 +609,7 @@ which will go out and be consumed, if the seed of truth within be not daily felt
 as oil in the vessels, to keep your lamps burning, and your lights shining,
 that men may see your good works, and glorify the God of your salvation.
 
+[.numbered]
 8+++.+++ I beseech you, friends and brethren,
 to permit the word of exhortation to prevail with you,
 unto a thorough examination of your own hearts, with the light of the gospel of Jesus,
@@ -632,6 +635,7 @@ if you be not watchful and diligent in keeping your heart close unto the Lord,
 and his truth in the inward parts: for the love of money is the root of all evil,
 as it is written.
 
+[.numbered]
 9+++.+++ Take often a view of the truth, as it was in the beginning,
 and what effect and operation it had upon you, when you were first convinced; how low,
 how meek, how poor in spirit, and humble in heart and mind;
@@ -719,7 +723,8 @@ and the mountain of the house of the Lord be on the top of all mountains,
 that the nations may flow unto it forever.
 Amen.
 
-Now I have a few words unto you, sons and daughters of men,
+[.numbered]
+10+++.+++ Now I have a few words unto you, sons and daughters of men,
 into whose hands this testimony may come, of what judgment or per suasion soever you are;
 and it is by way of advice,
 to take heed that you harden not your hearts against the truth,
@@ -794,7 +799,8 @@ the sum and substance of all things to you, and in you,
 through the application of his Holy Spirit, and not through any imagination,
 or traditional credulity, in yourselves.
 
-A few words to you, little children, that are ready to be troubled,
+[.numbered]
+11+++.+++A few words to you, little children, that are ready to be troubled,
 because of the prosperity of the wicked, and your own trials increasing upon you,
 and it may be such as you never expected to meet with: saying within yourselves.
 Have I forsaken all that is near and dear to me in this world, to embrace the truth?
@@ -849,6 +855,8 @@ and yourself established in his blessed truth forever,
 and become a pillar in God`'s house, and go no more forth;
 but be found to the praise of the riches of the glory of his grace, whose mercies,
 will you say, endure forever.
+
+====
 
 Thus having finished my testimony at this time, in faithfulness to God,
 and his requirings, in what plainness he was pleased to bring things to my remembrance;
