@@ -1,5 +1,6 @@
 == Chapter 2
 
+[.blurb]
 === An Epistle of Love to All That Are in Present Sufferings, Whether Inwardly or Outwardly.
 
 Upon the first day of the fourth month, 1660, as I was travelling upon the way,
@@ -317,6 +318,7 @@ and the little glimmering of hope that yet remains for you,
 if you persist not in your wickedness, but on the contrary, if you do,
 ye shall go down to the pit, where there is no Remembrance of him.
 
+[.blurb]
 === To You that are Called Public Preachers, or Ministers of the Gospel, and are under present sufferings, or possessed with fear, that you shall suffer either in relation to your places or consciences.
 
 Why are you afraid?
@@ -371,6 +373,7 @@ to attempt to curse Israel, or to run greedily for gifts and rewards.
 O that there were an ear open, to hear the voice of this chastisement,
 that your souls might be recovered out of the snare of the enemy.
 
+[.blurb]
 === To all those that are in present sufferings in their hearts and minds, because they do not understand the end of the Lord in these late transactions.
 
 Know ye the seed of God, even Abraham`'s seed; and as that comes to be raised,
@@ -419,6 +422,7 @@ until thou return into the sanctuary, which is the grace of God manifested in th
 and thereby shalt thou learn the fear of the Lord, whereby the heart shall be kept clean,
 and thou kept out of their snares.
 
+[.blurb]
 === To you who are in present power, who are raised up by the fall and overthrow of those that went before you.
 
 Do not you boast yourselves in your own strength,
@@ -471,6 +475,7 @@ and turned their deliverances against the Lord, to puff and swell themselves up,
 beyond any that ever was before them: if this be your state, you shall perish suddenly,
 and that without remedy; and then shall you know, that the Lord hath spoken by me.
 
+[.blurb]
 === To all that fear the Lord, and whose hearts are upright with him, and yet are sensible of the suffering state of the Church that is in God; because of the oppressions, and weights, and burdens, that lie upon the righteous seed.
 
 Fear not, nor be dismayed with any amazement.
