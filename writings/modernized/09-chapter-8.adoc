@@ -967,7 +967,9 @@ John Crook.
 [.signed-section-context-close]
 Hertford, the 26th of the Third month, 1698.
 
-[.offset]
+[.postscript]
+====
+
 A Postscript.
 
 [.salutation]
@@ -1004,3 +1006,5 @@ Farewell.
 
 [.signed-section-signature]
 John Crook.
+
+====
