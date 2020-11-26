@@ -1,8 +1,9 @@
 == Chapter 8.
 
-Truth`'s Principles: or, those things about doctrine and worship,
-which are most surely believed and received amongst the people of God, called Quakers.
+[.blurb]
+=== Truth`'s Principles: or, those things about doctrine and worship, which are most surely believed and received amongst the people of God, called Quakers.
 
+[.section-summary-preface]
 Concerning the man Christ, his sufferings, death, resurrection, faith in his blood,
 imputation of his righteousness, sanctification, justification, etc.
 Written to stop the mouth of clamour, and to inform all who desire to know the truth,
@@ -18,8 +19,10 @@ I am therefore willing in the 81st year of my age,
 that this following treatise should be reprinted, that they may see what myself,
 with our ancient friends, held in the year 1663.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, the 10th of the Tenth mo.
 1698.
 
@@ -628,14 +631,21 @@ and God have all the glory, unto whom alone it belongs; and man ashamed, confoun
 his mouth stopped, and he laid in the dust forever:
 and then shall my end be answered in writing these things.
 
+[.signed-section-signature]
 John Crook.
 
+[.blurb]
 === An epistle to Friends, for union and edification of the church of God in Christ Jesus.
-1 Cor. 1:10.
+
+[quote.scripture, , 1 Cor.1:10]
+____
+
 Now I beseech you brethren, by the name of our Lord Jesus Christ,
 that ye all speak the same thing, and that there be no divisions among you;
 but that ye be perfectly joined together in the same mind, and in the same judgment.
+____
 
+[.salutation]
 Dear Friends and Brethren, etc.,
 
 I salute you all in that first love wherewith God loved us,
@@ -953,14 +963,19 @@ borne up their spirits to their great satisfaction and comfort,
 and to the eternal praise of God`'s most holy and blessed name forever.
 Amen.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, the 26th of the Third month, 1698.
 
+[.offset]
 A Postscript.
 
+[.salutation]
 Dear Friends,
-let not your outward concerns prevent your religious meetings and service on the week-days,
+
+Let not your outward concerns prevent your religious meetings and service on the week-days,
 lest the earthly spirit get up again, and bury you before your time;
 but meet in the faith that you shall meet with God,
 whether you hear words spoken outwardly or not;
@@ -989,4 +1004,5 @@ which in tender love and good will to the souls of all,
 I desire may be prevented for the future.
 Farewell.
 
+[.signed-section-signature]
 John Crook.
