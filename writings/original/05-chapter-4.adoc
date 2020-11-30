@@ -192,7 +192,7 @@ _Chief Judge:_ Answer to the question, and you shall be heard.
 [.discourse-part]
 _John Crook:_ I have been about six weeks in prison, and am I now called to accuse myself?
 For the answering to this question in the negative, is to accuse myself,
-which you ought not to put me upon; for, nemo debet seipsum prodere.
+which you ought not to put me upon; for, _nemo debet seipsum prodere._
 I am an Englishman, and by the law of England I ought not to be taken, nor imprisoned,
 nor disseized of my freehold, nor called in question, nor put to answer,
 but according to the law of the land; which I challenge as my birthright,
@@ -340,7 +340,7 @@ _Judge:_ Yes.
 _John Crook:_
 I desire the statute to be read that empowers you to tender
 the oath to me upon this occasion in this place;
-for, Vox audita perit, sed litera scripta manet; therefore let me hear it read.
+for, _Vox audita perit, sed litera scripta manet;_ therefore let me hear it read.
 
 [.discourse-part]
 _Judge:_ Hear me.
@@ -420,7 +420,7 @@ Read on; and when the clerk had done reading,
 [.discourse-part]
 _John Crook said:_
 Read the preface to the act; I say again, read the title and preamble to the act;
-for titles to laws are claves legimi, as keys to open the law; for by their titles,
+for titles to laws are _claves legimi,_ as keys to open the law; for by their titles,
 laws are understood and known, as men by their faces.
 +++[+++Then the judges would have interrupted me, but I said as followeth:]
 If you will not hear me, nor do me justice,
@@ -565,7 +565,7 @@ you have a plea against them; but you must first answer guilty, or not guilty.
 _John Crook:_ How can I help myself, when you have outlawed me?
 Therefore let proclamation be made in the court, that I was brought by force hither,
 and let me stand cleared by proclamation, as you ought to do;
-for you are discernere per legem, quid sit justum,
+for you are _discernere per legem, quid sit justum,_
 (to determine by law what is just) and not to do what seems good in your own eyes;
 +++[+++here I was interrupted again,
 but might have spoken justice Crook`'s words in Hamden`'s case, who said,
@@ -726,8 +726,8 @@ but I am the man that have taken it once, being a freeman of the city of London,
 when I was made free, witness the records in Guildhall, which I may produce,
 and no new matter appearing to you on my part, if there do, let me know it; if not,
 you ought not, by your own judgment, to tender me it the second time;
-for De non apparentibus,
-et non existantihus eadem ratio est.--+++[+++Interrupted by the shout of the court,
+for _De non apparentibus,
+et non existantihus eadem ratio est._--+++[+++Interrupted by the shout of the court,
 when these last words might have been spoken.]
 
 [.discourse-part]
@@ -1017,9 +1017,9 @@ and therefore you shall not be surprised, but shall have what justice the law al
 _John Crook:_ I remember what the judge said even now.
 That the law of England was a merciful law; that the court had said before, They might,
 if they would, give us liberty till the next sessions, but they would not;
-and the maxim of the law also is, Summum jus, est summa injuria;
+and the maxim of the law also is, _Summum jus, est summa injuria;_
 therefore I hope your practice will make it good, that it is a merciful law;
-and not to execute summun jus, etc. upon me,
+and not to execute _summun jus,_ etc. upon me,
 and thereby condemn yourselves out of your own mouths.
 
 [.discourse-part]
@@ -1055,7 +1055,7 @@ _Judge:_ Crier, make silence in the court: +++[+++then the recorder,
 taking a paper into his hand, read to this purpose, viz.]
 The jury for the king do find, that John Crook, John Bolton, and Isaac Grey,
 are guilty of refusing to take the oath of allegiance;
-for which you do incur a premunire,
+for which you do incur a _premunire,_
 which is the forfeiture of all your real estates during life,
 and personal estates forever; and you to be out of the king`'s protection,
 and to be imprisoned during his pleasure: and this is your sentence.
@@ -1183,7 +1183,7 @@ inasmuch as it was not read at all to some of us, only we were asked,
 if we would take it; and to others but once, and not quite through neither,
 to our hearing and understanding; and none of us in words denied then to take it.
 He that deserves punishment, is supposed to have done or said some evil:
-Now the law saith, Malum non hahet efficiendam, sed deficiendam causam; in English thus,
+Now the law saith, _Malum non hahet efficiendam, sed deficiendam causam;_ in English thus,
 Evil hath not an efficient, but a deficient cause, saith Coke, because,
 some virtue is wanting.
 

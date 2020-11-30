@@ -215,7 +215,7 @@ all which was heightened by Francis Spira`'s book,^
 footnote:[Francis Spira (1502 - 1548) was an Italian lawyer who converted to Protestantism,
 but under pressure from the Catholic Inquisition denied
 his own convictions and publicly recanted his faith.
-The book referenced by Crook is called A Relation of the Fearful Estate of Francis Spira,
+The book referenced by Crook is called [.book-title]#A Relation of the Fearful Estate of Francis Spira,#
 which relates the terror that immediately seized Spira upon his recantation,
 and the subsequent guilt, horror, and mental anguish that soon ended his life.]
 which came to my hand, but I would not read it over,
