@@ -1,5 +1,6 @@
 == Chapter 7
 
+[.blurb]
 === An epistle to all that are young in the Truth, and lately convinced; who walk in, and assemble amongst, the People of God called Quakers; that they may escape the wiles of Satan, and continue and walk in the way of righteousness.
 
 We call to remembrance the labours, hardships,
@@ -187,10 +188,13 @@ till your days be accomplished, and you finish your course with joy.
 This from us, who labour and travail in the work of the gospel,
 for the advancing of the name of the Lord, your friends in God`'s truth,
 
+[.signed-section-signature]
 John Crook, Thomas Green.
 
+[.signed-section-context-close]
 London, the 15th of Eleventh month, 1672.
 
+[.blurb]
 === An epistle to all that, profess the light of Jesus Christ (within) to be their guide.
 
 Dear Friends, Brethren, and Sisters,
@@ -526,12 +530,16 @@ against which the gates of hell shall never prevail, we all may dwell and abide 
 so shall the work of the Lord prosper, to his own glory, and all our comforts forever.
 Amen.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 The 17th of the Sixth month, 1678.
 
+[.blurb]
 === An epistle to young people professing the truth.
 
+[.salutation]
 Dear Friends,
 
 Knowing that many which fear the Lord, and think upon his name, have had, for some time,
@@ -758,6 +766,9 @@ the armour of light at hand to defend you against all your youthful lusts: as,
 blessed be God, there are yet a cloud of witnesses alive, that can, from good experience,
 testify the same.
 
+[.postscript]
+====
+
 P+++.+++ S. Let none despise these lines for their plainness;
 for we were a plain people at the beginning,
 I know some of the younger sort are apt to be taken with fine words,
@@ -768,12 +779,18 @@ therefore this epistle is sent abroad in so plain a dress, on purpose,
 answerable to a plain seed in them that are puffed up, but ought rather to have mourned;
 which seed being reached, and their souls relieved, my end is answered,
 
+====
+
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Luton, the 16th of the Sixth month, 1686.
 
+[.blurb]
 === To Friends of Sewel`'s meeting, Bedfordshire.
 
+[.salutation]
 Dear friends,
 
 Having this opportunity, I I was willing to signify my remembrance of you,
@@ -825,7 +842,9 @@ as it comes from Christ, so it leads to Christ, and exalts the Father,
 through the Spirit, who is God over all, blessed forever.
 Amen.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, the 3rd of the Third mo.
 1698.
