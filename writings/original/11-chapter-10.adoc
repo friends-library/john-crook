@@ -1,5 +1,6 @@
 == Chapter 10. Testimonies of John Crook
 
+[.blurb]
 === Edward Chester`'s Testimony concerning John Crook.
 
 As to my dear and well beloved friend, and elder brother, John Crook, deceased,
@@ -41,13 +42,16 @@ as a minister of the everlasting gospel, and one well accepted of the Lord,
 and also of his people; and am persuaded he died a servant of the Lord.
 The Lord fit us all for his service, that we may all finish our course in the same!
 
+[.signed-section-signature]
 Edward Chester.
 
+[.signed-section-context-close]
 The 29th of the Fifth month, 1700.
 
+[.blurb]
 === Richard Thomas`'s Testimony concerning John Crook.
 
-A TESTIMONY lives upon my heart, to give for my ancient friend and brother John Crook,
+A testimony lives upon my heart, to give for my ancient friend and brother John Crook,
 some time since deceased, viz. on the 26th of the second month, 1699,
 and near the 82nd year of his age, in the town of Hertford,
 where he had lived for several years latterly;
@@ -119,13 +123,16 @@ with the faithful, whose works follow them; which everlasting rest, that I,
 and all that sincerely follow Christ Jesus, in the regeneration and newness of life,
 continuing in well-doing unto the end, may attain unto, is the prayer of,
 
+[.signed-section-signature]
 Richard Thomas.
 
+[.signed-section-context-close]
 Hertford, the 9th of the Ninth month, 1700.
 
+[.blurb]
 === George Whitehead`'s Account Concerning our Ancient Deceased Friend and Brother, John Crook.
 
-I HAVING had early conversation with him,
+I having had early conversation with him,
 after his loving and tender reception of the blessed truth, as it is in Christ Jesus,
 it being above forty years since we became first acquainted;
 I have this account to give of him,
@@ -183,10 +190,13 @@ and though his affliction and pains were great, the Lord gave him intervals of e
 refreshment and comfort, from his presence, to support and bear up his spirit,
 until his desirable and long waited for change came.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 London, the 21st of the First month, 1701.
 
+[.blurb]
 === Daniel Monro`'s Testimony concerning John Crook.
 
 Having been present at reading divers of John Crook`'s writings,
@@ -197,8 +207,10 @@ and to come in.`"
 And I am comforted in a sense of this faithful friend,
 that in his old age he was as strong for the spiritual war as ever.
 
+[.signed-section-signature]
 Daniel Monro.
 
+[.blurb]
 === A Short Testimony concerning John Crook.
 Containing also a few words spoken by him a little before his death.
 
@@ -267,4 +279,5 @@ the Anointed, and many more: yea, he becomes ail these to us, as we walk in his 
 who was given for a light to lighten the Gentiles,
 that he might be God`'s salvation to the ends of the earth.
 
+[.signed-section-signature]
 Theodore Ecclestone.
