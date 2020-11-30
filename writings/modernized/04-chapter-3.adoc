@@ -1,7 +1,9 @@
 == Chapter 3.
 
-=== To Friends in Bedfordshire, Hertfordshire, and thereaways: mercy and peace rest among you.
+[.letter-heading]
+To Friends in Bedfordshire, Hertfordshire, and thereaways: mercy and peace rest among you.
 
+[.salutation]
 Dear friends and brethren,
 
 Many and long have been the days of your sorrow and mourning,
@@ -115,11 +117,14 @@ but what is pure and holy: and so the God of peace keep you all,
 with all the faithful brethren and friends, in his love and peace to the end.
 Amen.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 From Huntingdon jail, the 28th of the Eleventh month, 1660.
 
-=== An epistle for unity to prevent the wiles of the enemy.
+[.letter-heading]
+An epistle for unity to prevent the wiles of the enemy.
 
 Dear lambs of my Father`'s fold, who have been rescued out of the hands of the devourer,
 and known the wolves, and the roaring of the lions, and the craft of the foxes,
@@ -191,7 +196,7 @@ and in darkness as well as others; and wherein any of you differ,
 either from what yourselves once were, or from what others are,
 it is by that which you have freely received.
 
-Oh! are you strong in the Lord?
+Oh! Are you strong in the Lord?
 And have many great things been done by you;
 and many mighty men been made to fall before you by his power;
 and the host of the Philistines been put to flight; and the power of darkness, and Satan,
@@ -215,7 +220,7 @@ but it melted before his dissolving presence, and scorching glory;
 so that all spirits were discerned, and tried, and judged with righteous judgments,
 in the day of his strength?
 
-O! how did the wise men of Egypt, and the soothsayer, peepers and diviners,
+O! How did the wise men of Egypt, and the soothsayer, peepers and diviners,
 with all the magicians and masters of that crew,
 together with all the merchants of Babylon, flee before him,
 like the routing of a mighty army, and scattering of all their generals,
@@ -666,12 +671,16 @@ and peace and plenty, love and unity, shall be the motto upon your houses;
 and the Omnipotent One, the Lord of hosts, your husband, your Lord,
 and your God forever.
 
+[.signed-section-signature]
 J+++.+++ Crook.
 
+[.signed-section-context-close]
 From Aylesbury common jail the 19th day of the Seventh month 1661.
 
-=== An Epistle to the children of the Lord.
+[.letter-heading]
+An Epistle to the children of the Lord.
 
+[.salutation]
 Dear children of the Lord,
 
 Great has been the love, with which the Father of mercies has visited you,
@@ -697,7 +706,7 @@ Surely he did it that he might be feared, and that he might be praised;
 and that a birth might be born, that cannot and will not forget his goodness,
 nor give the glory of his doings unto another, but unto him forever unto whom it belongs:
 and in this birth is your safety, and in this birth is your peace and quietness forever.
-Oh! do not let the false birth be painted with the openings that belong unto the true,
+Oh! Do not let the false birth be painted with the openings that belong unto the true,
 nor the true lack the food that is proper for it.
 Let not the earthly selfish birth,
 be covered or clothed with the profession of the true and heavenly birth,
@@ -714,7 +723,7 @@ but sits as queen, notwithstanding all that was once honourable is lost and fors
 and self and the earthly spirit is gotten up,
 and would rule where once the pure and holy Spirit ruled.
 
-Oh! take heed of this usurper, for it is but one o? Babylon`'s children,
+Oh! Take heed of this usurper, for it is but one of Babylon`'s children,
 and happy shall he be that dashes it against the stones.
 For the Lord God is making the house of Jacob to be as a flame,
 and the house of Esau to be as stubble,
@@ -740,7 +749,7 @@ that his intended mischief may not appear,
 but that it may be swallowed down without suspicion; that he may have the greater hold,
 he begins with a small matter, and ends with a greater.
 
-My dear friends! believe him not, for he was a liar from the beginning;
+My dear friends! Believe him not, for he was a liar from the beginning;
 and he will beguile you as he did Eve, if you watch not; he will tell you,
 that you may take care for your families, and so bring in distrust of God upon you.
 He will tell you, that you must be as wise as serpents,
@@ -771,7 +780,7 @@ and the latter end be worse than the beginning.
 Therefore watch, my dear friends, against the enemy of your souls,
 that you may be preserved out of all his snares, and that the holy seed may grow,
 and you, in the love and unity, may be preserved, faithful, bold, and valiant,
-in your answering of God`'s requiring in all things, unto his praise and glory fur ever.
+in your answering of God`'s requiring in all things, unto his praise and glory forever.
 That the blessings of Abraham may be enjoyed, and your peace with God may abound,
 and love, one unto another, and with all his children; shining through,
 and manifesting itself in your diligent coming together to worship God,
@@ -802,14 +811,20 @@ unto the endless praise of his mercy forever.
 My God keep you all in his life, fear, and love, unto the end.
 Amen.
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 From my outward bonds for the testimony of Jesus, in the common jail,
 in Aylesbury the 16th of the Seventh month, 1661.
 
-=== Another Epistle to the children of the Lord.
+[.letter-heading]
+Another Epistle to the children of the Lord.
 
-Dear friends and children of the lord My dear love is with you, and my life is refreshed,
+[.salutation]
+Dear friends and children of the lord,
+
+My dear love is with you, and my life is refreshed,
 when you are in my remembrance by the Spirit of my God,
 because of your steadfastness in his truth, and valour for his name;
 and as I have been often refreshed among you, when I have been present with you,
@@ -916,7 +931,9 @@ Amen.
 Your dear friend and brother in the truth of the gospel of our Lord Jesus Christ,
 with my dear love to all the faithful in Hertford and Baldock, and thereaway.
 
+[.signed-section-signature]
 J+++.+++ Crook.
 
+[.signed-section-context-close]
 From Aylesbury common jail, this fourth day of the Tenth month, 1661,
 where I remain in outward bonds for the testimony of Jesus.
