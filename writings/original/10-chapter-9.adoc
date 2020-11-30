@@ -157,6 +157,7 @@ John Crook.
 
 ====
 
+[.centered]
 === The Design of Christianity.
 
 The name Christian, implies the anointing;
@@ -399,6 +400,7 @@ Near entering into the 82d year of my age.
 [.signed-section-context-close]
 Hertford, the 17th of the 12th month, 1698-9.
 
+[.centered]
 === An Epistle to Friends belonging to Hertford meeting.
 
 [.salutation]
@@ -459,6 +461,7 @@ John Crook.
 [.signed-section-context-close]
 Hertford, the 25th of the 12th month, 1698-9.
 
+[.centered]
 === Advice to my children and grandchildren.
 
 [.salutation]
