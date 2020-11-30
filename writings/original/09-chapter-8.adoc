@@ -1,14 +1,11 @@
 == Chapter 8.
 
+Truth`'s Principles: or, those things about doctrine and worship, which are most surely believed and received amongst the people of God, called Quakers.
+
 [.blurb]
-=== Truth`'s Principles: or, those things about doctrine and worship, which are most surely believed and received amongst the people of God, called Quakers.
+=== Concerning the man Christ, his sufferings, death, resurrection, faith in his blood, imputation of his righteousness, sanctification, justification, etc. Written to stop the mouth of clamour, and to inform all who desire to know the truth, as it is in Jesus, by the servant of the Lord, John Crook.
 
-[.section-summary-preface]
-Concerning the man Christ, his sufferings, death, resurrection, faith in his blood,
-imputation of his righteousness, sanctification, justification, etc.
-Written to stop the mouth of clamour, and to inform all who desire to know the truth,
-as it is in Jesus, by the servant of the Lord, John Crook.
-
+[.centered]
 === To the Reader.
 
 It being allowed by some late adversaries,
@@ -26,6 +23,7 @@ John Crook.
 Hertford, the 10th of the Tenth mo.
 1698.
 
+[.centered]
 === Truth`'s Principles.
 
 Many are the reports that are abroad concerning this people,
