@@ -212,7 +212,7 @@ I thought myself the only miserable man in the world.
 Had I been made the most contemptible creature in the whole creation,
 I had been happy in comparison of my most intolerable misery;
 all which was heightened by Francis Spira`'s book,^
-footnote:[Francis Spira (1502 - 1548) was an Italian lawyer who converted to Protestantism,
+footnote:[Francis Spira (1502--1548) was an Italian lawyer who converted to Protestantism,
 but under pressure from the Catholic Inquisition denied
 his own convictions and publicly recanted his faith.
 The book referenced by Crook is called [.book-title]#A Relation of the Fearful Estate of Francis Spira,#
