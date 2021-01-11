@@ -634,7 +634,7 @@ John Crook.
 [.blurb]
 === An epistle to Friends, for union and edification of the church of God in Christ Jesus.
 
-[quote.scripture, ,1 Cor. 1:10.]
+[quote.scripture, , 1 Cor. 1:10]
 ____
 
 Now I beseech you brethren, by the name of our Lord Jesus Christ,
